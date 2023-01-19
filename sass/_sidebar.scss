@@ -5,6 +5,14 @@
 
   display: flex;
   justify-content: center; //center btn in sidebar
+
+  @media only screen and (max-width: $bp-large) {
+    grid-column: 1 / -1;
+    grid-row: 1 / 2;
+
+    justify-content: flex-end; // position btn in sidebar
+    align-items: center;
+  }
 }
 
 .nav-btn {
@@ -30,5 +38,17 @@
   }
   &::after {
     transform: translateY(1rem);
+  }
+
+  @media only screen and (max-width: $bp-large) {
+    margin-top: 0;
+    margin-right: 3rem;
+
+    &::before {
+      transform: translateY(-1rem);
+    }
+    &::after {
+      transform: translateY(0.8rem);
+    }
   }
 }
