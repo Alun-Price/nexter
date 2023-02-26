@@ -2,7 +2,7 @@
   "name": "nexter",
   "version": "1.0.0",
   "description": "Nexter - grid project",
-  "main": "index.js",
+  "default": "index.js",
   "scripts": {
     "watch:sass": "node-sass sass/main.scss css/style.css -w",
     "compile:sass": "node-sass sass/main.scss css/style.comp.css",
