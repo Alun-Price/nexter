@@ -1,4 +1,4 @@
-**Description **: The Nexter project is part of the Advanced CSS and SASS course by Jonas Schmedtman https://www.udemy.com/course/advanced-css-and-sass/learn/lecture/8859702#overview
+**Description**: The Nexter project is part of the Advanced CSS and SASS course by Jonas Schmedtman https://www.udemy.com/course/advanced-css-and-sass/learn/lecture/8859702#overview
 
 The goal of the project is to produce a completely responsive, single-page website that demonstrates the usage of CSS Grid in as many ways as possible.
 
