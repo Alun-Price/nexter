@@ -4,7 +4,7 @@ The goal of the project is to produce a completely responsive, single-page websi
 
 The website is for a fictional company that sells luxury homes across the world.
 
-**Getting Started with Nexter**
+## **Getting Started with Nexter**
 
 Use **Live Server** to see the site on the browser.
 
